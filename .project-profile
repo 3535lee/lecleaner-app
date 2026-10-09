@@ -1,0 +1,5 @@
+PROJECT_PROFILE=personal
+GIT_SSH_HOST=github-personal
+GH_CONFIG_DIR=~/.config/gh-personal
+GCLOUD_CONFIGURATION=personal
+CLOUDFLARE_KEYCHAIN_ACCOUNT=personal
