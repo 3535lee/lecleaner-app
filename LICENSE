@@ -1,0 +1,19 @@
+LeCleaner Proprietary License Notice
+Copyright (c) 2026 MacLee. All rights reserved.
+
+This notice applies to the independently authored proprietary LeCleaner application.
+LeCleaner's development source is private. Publication of installer or update
+binaries does not grant access to, or an open-source license for, that source.
+
+MacLee permits users to download, install, and run official released binaries,
+subject to any accompanying release-specific terms. Except as permitted by
+applicable law or a separate license, no permission to redistribute or modify
+MacLee's proprietary application is granted by this notice.
+
+Third-party components are excluded from these restrictions and remain governed
+by their own licenses. Their licenses and corresponding rights are not overridden
+by this notice. This includes the separately executed GPL-3.0 Mole CLI.
+
+This notice does not relicense any third-party code or any previously GPL-licensed
+derivative implementation. A final end-user agreement, if provided, must preserve
+applicable third-party license rights.
